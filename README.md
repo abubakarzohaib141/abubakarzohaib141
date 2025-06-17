@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="coding" width="370" src="https://cdn.dribbble.com/userupload/22322072/file/original-ca58e8521efe1f635507aa0971c5283f.gif">
+<img align="right" alt="coding" width="370" src="https://cdn.dribbble.com/userupload/22322072/file/original-ca58e8521efe1f635507aa0971c5283f.gif"> </img>
 🔭 I’m currently working on: ABZ Agent SDK<br>🌱 I’m currently learning: Python , OpenAI Agent SDK<br>🤔 I’m looking for help with: Your project here<br>📫 How to reach me: abubakarbinzohaib@gmail.com<br>
 
 
