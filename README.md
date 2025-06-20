@@ -1,8 +1,8 @@
 # About Me :
 I am **Abu Bakar** *Agentic AI Developer* Frontend Developer ## My Skills are HTML CSS TS Next.js Node.js Sanity Stripe **Python** LangChain LangGraph CrewAI **OpenAI Agent SDK** *I am currently working on **ABZ Agent SDK** My Own Agentic AI Framework* I have created too many **Projects** Like  
-- [![RAG System](https://abubakar-rag.streamlit.app)
-- [![Portfolio]](https://abubakar10.vercel.app)
-- [![E-commerce]](https://abz-commerce.vercel.app)
+- RAG System(https://abubakar-rag.streamlit.app)
+- Portfolio(https://abubakar10.vercel.app)
+- E-commerce(https://abz-commerce.vercel.app)
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abu.bakar.457860#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abubakar-bin-zohaib) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abubakar_1415) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@abubakarsoftware) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abubakarbinzohaib@gmail.com) 
