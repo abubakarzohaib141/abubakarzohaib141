@@ -1,5 +1,5 @@
 # About Me :
-<img title="a title" alt="Alt text" src="/abz.gif">
+<img title="a title" alt="Alt text" src="/abz.gif" , width=200 , alighn = right>
 I am **Abu Bakar** *Agentic AI Developer* Frontend Developer *My Skills* are HTML CSS TS Next.js Node.js Sanity Stripe **Python** LangChain LangGraph CrewAI **OpenAI Agent SDK** *I am currently working on **ABZ Agent SDK** My Own Agentic AI Framework* I have created too many **Projects** Like  
 - [RAG System](https://abubakar-rag.streamlit.app)
 - [Portfolio](https://abubakar10.vercel.app)
