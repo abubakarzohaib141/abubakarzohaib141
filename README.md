@@ -1,3 +1,4 @@
+<img title="Hello" alt="Alt Text" src="cover.jfif" >
 # About Me :
 <img title="a title" alt="Alt text" src="/abz.gif" width="300" align="right">
 
