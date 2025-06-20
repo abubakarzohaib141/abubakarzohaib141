@@ -1,4 +1,4 @@
-<img title="Hello" alt="Alt Text" src="coverphot.jfif" height="800">
+<img title="Hello" alt="Alt Text" src="coverphot.jfif" height="700">
 # About Me :
 <img title="a title" alt="Alt text" src="/abz.gif" width="300" align="right">
 
