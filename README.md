@@ -1,10 +1,6 @@
 
 <div align="center">
 
-<!-- YOUR PROFILE PHOTO -->
-<img src="./abubakar.png" width="170" alt="Abu Bakar" />
-
-<br/><br/>
 
 <!-- ANIMATED BLUE HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:071A3D,50:174EA6,100:2563EB&text=ABU%20BAKAR&fontSize=65&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"/>
